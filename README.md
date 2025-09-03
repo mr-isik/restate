@@ -16,6 +16,13 @@ A modern React Native real estate application built with Expo Router, featuring 
 
 ## 📱 Screenshots
 
+<div align="center">
+  <img src="./assets/images/ss1.jpg" width="200" alt="Home Screen" />
+  <img src="./assets/images/ss2.jpg" width="200" alt="Property Listing" />
+  <img src="./assets/images/ss3.jpg" width="200" alt="Property Details" />
+  <img src="./assets/images/ss4.jpg" width="200" alt="User Profile" />
+</div>
+
 The app includes several key screens:
 
 - **Home**: Featured properties and search functionality
