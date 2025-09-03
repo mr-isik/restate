@@ -168,7 +168,6 @@ Key configuration files:
 ### Property Search
 
 - Text-based search functionality
-- Location filtering
 - Category-based filtering
 - Real-time search results
 
